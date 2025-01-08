@@ -3,3 +3,5 @@ __pycache__/
 venv/
 app/
 test_*.py
+.github/.DS_Store
+.DS_Store
